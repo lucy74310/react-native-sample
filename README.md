@@ -22,6 +22,6 @@ React native cli - sample app
   ㄴ 첨에 Android Studio 랑 sdk 를 용량 부족한 하드에 설치하니 프로세스가 죽는다고 뜸. 10GB정도는 넉넉히 있어야 한다고.. 그래서 다른 파트에 설치함. 
 
 
-2. npm install -g react-native 
+2. npm install -g react-native-cli
 
 3. npm react-native init sampleApp 
